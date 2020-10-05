@@ -1,0 +1,10 @@
+package communityuni.com;
+
+public enum XepLoai {
+	XuatSac,
+	Gioi,
+	Kha,
+	TrungBinh,
+	Yeu,
+	Kem
+}

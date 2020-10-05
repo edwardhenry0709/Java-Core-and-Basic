@@ -1,0 +1,9 @@
+package communityuni.com;
+
+public class Work implements DoAble{
+
+	public void doSomething(int x) {
+		System.out.println("Do "+x);
+	}
+
+}

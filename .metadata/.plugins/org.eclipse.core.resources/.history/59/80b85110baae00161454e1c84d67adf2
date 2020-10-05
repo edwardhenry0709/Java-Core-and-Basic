@@ -1,0 +1,8 @@
+package communityuni.com;
+
+public class SinhVien implements Cloneable {
+	 public SinhVien copy()
+	 {
+	     return (SinhVien) this.clone();
+	 }
+}

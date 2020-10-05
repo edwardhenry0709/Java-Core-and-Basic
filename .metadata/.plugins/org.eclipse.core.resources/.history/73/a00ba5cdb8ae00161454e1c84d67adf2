@@ -1,0 +1,16 @@
+package communityuni.com;
+
+public class SinhVien {
+	private String hoTen;
+	private double diem;
+	public SinhVien(String hoTen)
+	{
+		this.hoTen=hoTen;
+	}
+	public SinhVien(String hoTen,double diem)
+	{
+		int x;
+		this(hoTen);
+		this.diem=diem;
+	}
+}

@@ -1,0 +1,9 @@
+package communityuni.com;
+
+public class SanPham implements Comparable<SanPham>{
+	private int ma;
+	private String ten;
+	private double gia;
+	
+
+}

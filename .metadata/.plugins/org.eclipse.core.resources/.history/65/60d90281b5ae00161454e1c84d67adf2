@@ -1,0 +1,8 @@
+package communityuni.com;
+
+public class TamGiac {
+	private int canhA;
+	private int canhB;
+	private int canhC;
+	
+}

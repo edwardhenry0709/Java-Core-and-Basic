@@ -1,0 +1,7 @@
+package communityuni.com;
+
+public class SinhVien {
+	private String hoTen;
+	private double diem;
+	
+}
